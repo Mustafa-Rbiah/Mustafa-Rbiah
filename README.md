@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-**Frontend Developer & WordPress on a mission to master the Full-Stack.** 
+**Specialist in Front-End & WordPress Development.** 
 Frontend Developer & WordPress enthusiast on a journey to master Full-Stack development. I build modern, high-performance web experiences with a strong focus on speed, accessibility, and clean, maintainable code.
 
 With a solid background in Graphic Design and UI/UX Design, I bridge the gap between design and development. This allows me to transform visual concepts into intuitive, responsive, and user-centered interfaces. Whether I’m crafting interactive components with JavaScript or customizing advanced WordPress environments, every line of code I write serves a clear purpose.
