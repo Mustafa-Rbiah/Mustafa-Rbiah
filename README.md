@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Mustafa Rbiah
-### Frontend Developer & WordPress | Full-Stack Developer in Training
+### Frontend Developer
 
 <p align="left">
   <a href="https://mustafarbiah.website/" target="_blank">
@@ -13,12 +13,16 @@
 ---
 
 ### 🚀 About Me
-**Specialist in Front-End & WordPress Development.** 
-Frontend Developer & WordPress enthusiast on a journey to master Full-Stack development. I build modern, high-performance web experiences with a strong focus on speed, accessibility, and clean, maintainable code.
+**Specialist in Front-End  Development.** 
+Frontend Developer with a unique background in Graphic Design and UI/UX. This foundation allows me to do more than just write code; I understand the "why" behind every pixel, ensuring that the final product is both technically robust and visually stunning.
 
-With a solid background in Graphic Design and UI/UX Design, I bridge the gap between design and development. This allows me to transform visual concepts into intuitive, responsive, and user-centered interfaces. Whether I’m crafting interactive components with JavaScript or customizing advanced WordPress environments, every line of code I write serves a clear purpose.
+My journey began in the creative world, designing interfaces and visual identities. However, my curiosity for how things work led me to the world of development. Today, I specialize in building high-performance, responsive web applications using React.js, Vite, and modern CSS. Because I speak both design and code, I can translate complex Figma prototypes into pixel-perfect realities.
 
-I am getting formation at OFPPT, where I am expanding my skills in Full-Stack development, including server-side logic and database management, with the goal of building robust, scalable, and data-driven web applications from the ground up.
+What I’m doing now:
+Currently, I am a Full-Stack student at OFPPT, mastering Laravel and database management to build complete, end-to-end digital solutions. I am a firm believer in clean code, smooth user experiences (using tools like Framer Motion), and continuous learning.
+
+What's next:
+I am not just building for the web. My roadmap includes moving into Mobile App Development and mastering AWS Cloud Infrastructure to build and scale global applications. I’m always open to collaborating on projects that challenge me and push boundaries.
 
 ---
 
