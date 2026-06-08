@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Mustafa Rbiah
-### Frontend Developer
+### Web Developer
 
 <p align="left">
   <a href="https://mustafarbiah.website/" target="_blank">
@@ -13,8 +13,8 @@
 ---
 
 ### 🚀 About Me
-**Specialist in Front-End  Development.** 
-Frontend Developer with a unique background in Graphic Design and UI/UX. This foundation allows me to do more than just write code; I understand the "why" behind every pixel, ensuring that the final product is both technically robust and visually stunning.
+**Specialist in Web Developer.** 
+I am a Web Developer with a unique background in Graphic Design and UI/UX. This foundation allows me to do more than just write code; I understand the "why" behind every pixel, ensuring that the final product is both technically robust and visually stunning.
 
 My journey began in the creative world, designing interfaces and visual identities. However, my curiosity for how things work led me to the world of development. Today, I specialize in building high-performance, responsive web applications using React.js, Vite, and modern CSS. Because I speak both design and code, I can translate complex Figma prototypes into pixel-perfect realities.
 
