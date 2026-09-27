@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Mustafa Rbiah
-### Web Developer
+### Full-Stack Developer
 
 <p align="left">
   <a href="https://mustafarbiah.website/" target="_blank">
