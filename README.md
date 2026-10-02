@@ -13,16 +13,12 @@
 ---
 
 ### 🚀 About Me
-**Specialist in Full-Stack Developer ** 
- with a unique background in Graphic Design and UI/UX. This foundation allows me to do more than just write code; I understand the "why" behind every pixel, ensuring that the final product is both technically robust and visually stunning.
 
-My journey began in the creative world, designing interfaces and visual identities. However, my curiosity for how things work led me to the world of development. Today, I specialize in building high-performance, responsive web applications using React.js, Vite, and modern CSS. Because I speak both design and code, I can translate complex Figma prototypes into pixel-perfect realities.
+I’m a Full-Stack Developer based in Tangier, Morocco, focused on building high-performance, scalable web applications from scratch. I work daily with **React, Next.js, TypeScript, and Tailwind** on the frontend, alongside **Laravel, Supabase, Node.js, and MySQL/PostgreSQL** for backend logic and databases.
 
-What I’m doing now:
-Currently, I am a Full-Stack student at OFPPT, mastering Laravel and database management to build complete, end-to-end digital solutions. I am a firm believer in clean code, smooth user experiences (using tools like Framer Motion), and continuous learning.
+Because of my strong background in UI/UX design (Figma), I bridge the gap between complex backend architectures and clean, responsive user interfaces. I don't just write code; I ensure pixel-perfect execution, smooth interactions, and solid performance (like achieving top-tier Lighthouse scores).
 
-What's next:
-I am not just building for the web. My roadmap includes moving into Mobile App Development and mastering AWS Cloud Infrastructure to build and scale global applications. I’m always open to collaborating on projects that challenge me and push boundaries.
+Currently, I build end-to-end solutions, handle RESTful APIs, and continuously ship production-ready web applications.
 
 ---
 
@@ -30,18 +26,16 @@ I am not just building for the web. My roadmap includes moving into Mobile App D
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **CMS** | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square&logo=react&logoColor=white) |
+| **Backend & DB** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 ---
-
-
 
 ### 📫 Let's Connect!
 *   🌍 **Portfolio:** [mustafarbiah.website](https://mustafarbiah.website/)
 *   💼 **LinkedIn:** [Mustafa Rbiah](https://www.linkedin.com/in/mustafa-rbiah-3b2997293/)
 *   📧 **Email:** [Mustafarbiah@gmail.com](mailto:Mustafarbiah@gmail.com)
 *   📱 **WhatsApp / Phone:** [+212 612 563470](https://wa.me/212612563470) <br>
+
 *"Writing clean code is not a choice, it's a lifestyle."*
